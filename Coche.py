@@ -6,6 +6,7 @@ Extrae una superclase Vehículo con los campos
     fabricante
     color
 :autor: Jaime Rabasco
+asi ya esta bien no mu mal
 """
 
 
