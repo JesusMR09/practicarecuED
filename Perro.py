@@ -2,6 +2,7 @@
 Clase Perro.
 
 Autor: Jaime Rabasco Ronda.
+esto esta mu bien
 """
 class Perro:
 
